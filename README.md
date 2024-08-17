@@ -6,6 +6,8 @@ the following was written by llms after i wrote the project locally and asked it
 
 rust `i64` type is used, which could potentially overflow for very large integers. for this example that problem remains out of scope. 
 
+maturin **really** wants a venv to work so keep that in mind if you do something similar.
+
 ## Project Structure
 
 ```
